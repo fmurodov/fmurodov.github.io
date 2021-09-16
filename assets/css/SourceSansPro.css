@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../webfonts/SourceSansProLight.woff2) format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../webfonts/SourceSansProBlack.woff2) format('truetype');
+}
