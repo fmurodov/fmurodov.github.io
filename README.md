@@ -1,2 +1,2 @@
-# firdavsich.github.io
+# murodov.org
 ### vcard
